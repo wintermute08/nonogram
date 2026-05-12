@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+debug_*.png
+inspect_*.png
